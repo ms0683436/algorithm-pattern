@@ -112,5 +112,5 @@ func backtrack(nums []int, pos int, list []int, result *[][]int) {
 
 ## 练习
 
-- [ ] [strStr](https://leetcode-cn.com/problems/implement-strstr/)
-- [ ] [subsets](https://leetcode-cn.com/problems/subsets/)
+- [X] [strStr](https://leetcode-cn.com/problems/implement-strstr/)
+- [X] [subsets](https://leetcode-cn.com/problems/subsets/)
